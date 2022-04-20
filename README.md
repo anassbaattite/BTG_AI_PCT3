@@ -1,7 +1,6 @@
 # BTG_AI_PCT3
-Anass Baattite | El Oufir Abderrahmane
-83044 | 82212
-CSC 4301 01
+Anass Baattite  El Oufir Abderrahmane |
+CSC 4301 01 |
 Spring 2022
 
 Report Project 3
